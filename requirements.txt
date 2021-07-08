@@ -1,0 +1,6 @@
+mediapipe
+tensorflow==2.4.1
+matplotlib
+sklearn
+opencv-python
+tensorflow-gpu==2.4.1
